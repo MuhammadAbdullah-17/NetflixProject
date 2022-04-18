@@ -3,7 +3,7 @@ import "./App.css";
 import Picture from "./Picture";
 const App = (prop) => {
   return (
-    <div className="row text-left">
+    <div className="row">
     <div className="col-md-4 col-sm-12 col-lg-3">
       <div className="App bg-dark ">
         <header className="App-header">
